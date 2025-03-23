@@ -75,6 +75,15 @@ The IDPS has potential applications in several research areas:
    ```bash
    python idps.py
    ```
+5. To Create virtual environment:
+   ```bash
+   python -m venv .venv
+   ```
+6. To run virtual environment:
+   ```bash
+   .venv\Scripts\Activate
+   ```
+
 
 ## Conclusion
 This IDPS provides an integrated approach to intrusion detection and prevention, leveraging machine learning, real-time monitoring, and attack simulation. Future enhancements will improve detection accuracy, automation, and resilience against sophisticated cyber threats.
