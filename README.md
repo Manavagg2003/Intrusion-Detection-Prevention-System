@@ -61,7 +61,7 @@ The IDPS has potential applications in several research areas:
 ### Running the IDPS
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/idps.git
+   git clone https://github.com/Manavagg2003/Intrusion-Detection-Prevention-System.git
    ```
 2. Run the attack simulator:
    ```bash
